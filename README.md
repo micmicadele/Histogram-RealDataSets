@@ -5,8 +5,8 @@ This project provides data visualizations using **Python (matplotlib)** and **R 
 
 ## Contents
 
-- **`agri_prices.py`**: Visualizes market prices of **Palay (Paddy)** and **Corngrain (Maize)** from 2022 to 2025.
-- **`labor_force.R`**: Plots labor force metrics such as **Labor Force Participation Rate**, **Employment Rate**, and **Unemployment Rate** from 2023 to 2025.
+- **`Histogram-FarmgatePrices.py`**: Visualizes market prices of **Palay (Paddy)** and **Corngrain (Maize)** from 2022 to 2025.
+- **`Histogram-LaborForce.R`**: Plots labor force metrics such as **Labor Force Participation Rate**, **Employment Rate**, and **Unemployment Rate** from 2023 to 2025.
 
 ---
 
